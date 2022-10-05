@@ -1,0 +1,10 @@
+useEffect: Runs sideEffect on API
+-used for fetching data from API end point
+NB: You don't pass Hooks into a conditional statement
+//React.dependency
+//Empty dependancy array
+//Jason Placeholder
+//JASON- Javascript object notation
+//Coinlore: Free crypto currency API
+//Axios: npm install Axios
+//Free API
